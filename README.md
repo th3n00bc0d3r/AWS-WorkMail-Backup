@@ -1,6 +1,4 @@
-<a href="https://paypal.me/bilaldevguy?country.x=AE&locale.x=en_US" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-<a href="https://www.linkedin.com/in/th3n00bc0d3r/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" height="41" width="174"></a>
+<a href="https://paypal.me/bilaldevguy?country.x=AE&locale.x=en_US" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/th3n00bc0d3r/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" height="41" width="174"></a>
 
 
 
