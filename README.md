@@ -1,3 +1,9 @@
+<a href="https://paypal.me/bilaldevguy?country.x=AE&locale.x=en_US" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+
+<a href="https://www.linkedin.com/in/th3n00bc0d3r/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" height="41" width="174"></a>
+
+
+
 # AWS WorkMail Backup and Import Automation
 Automating the process of importing multiple AWS WorkMail mailboxes from S3 backups. Using a Python script, we initiate and manage import jobs for each mailbox, ensuring up to 10 concurrent jobs. The script tracks job statuses and organizes imports by user email, ensuring secure and efficient data restoration.
 
